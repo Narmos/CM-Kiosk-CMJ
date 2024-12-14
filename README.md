@@ -25,4 +25,4 @@ Boutons de navigation `Retour` et `Accueil` qui permettent de revenir en arrièr
 
 - Permettre de choisir le page d'accueil depuis les options de l'extension qui se répercutera sur les boutons `Accueil` du clavier et de la navigation.
 - Permettre de désactivé les boutons de navigation depuis les options de l'extension.
-- Supprimer tous les `target="_blank"` des liens dans les pages
+- Supprimer tous les `target="_blank"` des liens dans les pages plutôt que d'utiliser l'extension dédiée [Death To _blank](https://chromewebstore.google.com/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno)
